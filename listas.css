@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #87C4FF;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: space-around;
+}
+
+.lista {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 40%;
+    background-color: #39A7FF;
+}
+
+h2{
+
+    text-decoration: underline;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding: 5px;
+    border: 1px solid #eee;
+    margin: 5px;
+    cursor: pointer;
+    background-color:#FFEED9;
+    font-weight: bold;
+}
+
+

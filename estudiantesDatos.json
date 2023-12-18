@@ -1,0 +1,94 @@
+[
+    {
+        "grupo": "UNO",
+        "exposicion": "false"
+    },
+    {
+        "grupo": "DOS",
+        "exposicion": "false"
+    },
+    {
+        "grupo": "TRES",
+        "exposicion": "true"
+    },
+    {
+        "grupo": "CUATRO",
+        "exposicion": "true"
+    },
+    {
+        "grupo": "CINCO",
+        "exposicion": "true"
+    },
+    {
+        "grupo": "SEIS",
+        "exposicion": "true"
+    },
+    {
+        "grupo": "SIETE",
+        "exposicion": "false"
+    },
+    {
+        "grupo": "OCHO",
+        "exposicion": "false"
+    },
+    {
+        "grupo": "NUEVE",
+        "exposicion": "false"
+    },
+    {
+        "grupo": "DIEZ",
+        "exposicion": "false"
+    },
+    {
+        "grupo": "ONCE",
+        "exposicion": "false"
+    },
+    {
+        "grupo": "DOCE",
+        "exposicion": "false"
+    },
+    {
+        "grupo": "TRECE",
+        "exposicion": "true"
+    },
+    {
+        "grupo": "CATORCE",
+        "exposicion": "false"
+    },
+    {
+        "grupo": "QUINCE",
+        "exposicion": "false"
+    },
+    {
+        "grupo": "DIECISEIS",
+        "exposicion": "false"
+    },
+    {
+        "grupo": "DIECISIETE",
+        "exposicion": "true"
+    },
+    {
+        "grupo": "DIECIOCHO",
+        "exposicion": "false"
+    },
+    {
+        "grupo": "DIECINUEVE",
+        "exposicion": "false"
+    },
+    {
+        "grupo": "VEINTE",
+        "exposicion": "true"
+    },
+    {
+        "grupo": "VEINTIUNO",
+        "exposicion": "false"
+    },
+    {
+        "grupo": "VEINTIDOS",
+        "exposicion": "false"
+    },
+    {
+        "grupo": "VEINTITRES",
+        "exposicion": "false"
+    }
+]
